@@ -1,0 +1,5 @@
+{
+  "name": "Lab Bench Co-Pilot",
+  "description": "An AI-powered lab assistant that diagnoses experimental failures by analyzing protocols and result images (gels, plates, etc.).",
+  "requestFramePermissions": []
+}
